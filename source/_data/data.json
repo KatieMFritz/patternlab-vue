@@ -51,42 +51,7 @@
         "long" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     "number" : "12",
-    "primaryNav" : [
-        {
-            "label": "About",
-            "url": "link.pages-about"
-        },
-        {
-            "label": "Blog",
-            "url": "link.pages-blog-index"
-        },
-        {
-            "label": "Contact",
-            "url": "link.pages-contact"
-        },
-        {
-            "label": "Login",
-            "url": "link.pages-login"
-        }
-    ],
-    "footerNav" : [
-        {
-            "label": "About",
-            "url": "link.pages-about"
-        },
-        {
-            "label": "Blog",
-            "url": "link.pages-blog-index"
-        },
-        {
-            "label": "Contact",
-            "url": "link.pages-contact"
-        },
-        {
-            "label": "Login",
-            "url": "link.pages-login"
-        }
-    ],
+
     "url" : "#",
     "htmlText" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis, unde, dolore? Ex fugit, necessitatibus tempore neque ullam nostrum ducimus alias beatae voluptatibus iusto, perspiciatis tenetur consectetur reprehenderit, harum quae rerum!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit corrupti fuga, quas quisquam perspiciatis. Consequatur, atque ducimus dolores natus officia qui rerum consectetur repellat ullam accusantium laboriosam, reprehenderit nemo deleniti</p>",
     "form" : true,
@@ -229,8 +194,8 @@
 		{
 			"url" : "#",
 			"number" : "10"
-		}				
-	],			
+		}
+	],
     "sectionBlock" : true,
     "textButton" : true,
 	"overlayMessage" : "Let's go on a hike and climb in elevation",
